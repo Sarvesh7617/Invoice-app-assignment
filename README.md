@@ -56,7 +56,7 @@ Built with **React** (frontend) and **Node.js/Express + MongoDB** (backend).
 
 ### Frontend
 
-
+```bash
 frontend/
 ├── src/
 │ ├── components/
@@ -73,8 +73,14 @@ frontend/
 │ │ └── PaymentsSection.jsx             # Payment handling UI
 │ └── main.jsx                          # Main entry point for the React app
 └── env.sample                          # Sample environment file for frontend
+```
+
 
 ### Backend
+
+
+```bash
+
 
 backend/
 ├── src/
@@ -94,7 +100,7 @@ backend/
 │ ├── app.js                           # Main app configuration file
 │ └── constant.js                      # Defines constants DB name
 └── env.sample                         # Sample environment file for backend
-
+```
 
 ## ⚙️ Setup
 
